@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Solution (https://github.com/MarwaDawood/FrontendMentor_socials)
-- Live Site URL: Live site (https://frontendmentor-challengesocialprofile.netlify.app/)
+- Solution URL: [Solution](https://github.com/MarwaDawood/FrontendMentor_socials)
+- Live Site URL: [Live site](https://frontendmentor-challengesocialprofile.netlify.app/)
 
 ## My process
 
@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Website -personal webiste (https://marwadawood.netlify.app/#)
-- Frontend Mentor - MarwaDawood (https://www.frontendmentor.io/profile/MarwaDawood)
+- Website - [Marwa Dawood](https://marwadawood.netlify.app/#)
+- Frontend Mentor - [@MarwaDawood](https://www.frontendmentor.io/profile/MarwaDawood)
 
